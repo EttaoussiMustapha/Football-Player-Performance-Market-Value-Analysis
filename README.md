@@ -197,17 +197,11 @@ This confirms the EDA signal: nationality (England/France in particular) adds a 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/football-market-value.git
+git clone https://github.com/EttaoussiMustapha/Football-Player-Performance-Market-Value-Analysis.git
 cd football-market-value
 ```
 
 ### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Or manually:
 
 ```bash
 pip install requests beautifulsoup4 pandas numpy matplotlib seaborn scikit-learn
