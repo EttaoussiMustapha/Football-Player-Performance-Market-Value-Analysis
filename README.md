@@ -37,7 +37,6 @@ This project implements a complete data science workflow:
 ├── Analyse_exploratoire.ipynb    # Exploratory Data Analysis (EDA)
 ├── Machine_Learning.ipynb        # Modeling, tuning, clustering & inference
 ├── README.md
-└── requirements.txt
 ```
 
 ---
